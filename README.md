@@ -6,4 +6,4 @@ I also work as a Supplemental Instruction (SI) Leader as a part of the Center fo
 
 # Research Experience
 
-For more information about my research background and to look at my CV, please go to index.html
+For more information about my research background, please take a look at the CV file.
